@@ -3,3 +3,18 @@
 body{
     background: white;
 }
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    font-size: 70px;
+    }
+
+#excuse { 
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
